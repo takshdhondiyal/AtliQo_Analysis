@@ -13,7 +13,7 @@ Analysis of a data under Telecom domain
 
 -- Establishing the relationships between the data sets.
 
--- Writing DAX to calculatate the metrics like Revenue, ARPU (Average Revenue Per User), Total Active and Unsubscribed users, change in these KPIs before and after implementations of 5G plans and other calculated columns.
+-- Writing DAX to calculate the metrics like Revenue, ARPU (Average Revenue Per User), Total Active and Unsubscribed users, change in these KPIs before and after implementation of 5G plans and other calculated columns.
 
 -- Designing the visuals.
 
